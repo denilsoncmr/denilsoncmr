@@ -1,8 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Denilson!</strong>
 
-> Eu sou desenvolvedor Backend Java e estudante de Análise e Desenvolvimento de Sistemas.
-
-🔭 Atualmente estou trabalhando em um projeto ToDo app utilizando Java, MySQL e a biblioteca Swing. Além do projeto estou estudando os frameworks Spring e Angular.
+> Eu sou desenvolvedor Backend Java e acadêmico de Engenharia de Software.
 
 ----
 
